@@ -1,10 +1,10 @@
 {
     "name": "fuedskeps-theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Fuedskeps Theme",
     "homepage": "https://aluisiodeavila.com.br/",
     "description": "A dark theme made by Aluisio de Avila",
-    "publisher": "Aluisio de Avila",
+    "publisher": "aluisiodeavila",
     "maintainers": [
         "Aluisio de Avila <aluisiodeavila@hotmail.com>"
     ],
@@ -13,7 +13,7 @@
         "url": "https://github.com/Aluisio/fuedskeps-theme-vscode.git"
     },
     "engines": {
-        "vscode": "^1.61.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
