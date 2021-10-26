@@ -28,7 +28,7 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](https://github.com/Aluisio/fuedskeps-theme/blob/master/./INSTALL.md).
+All instructions can be found at [INSTALL.md](https://github.com/Aluisio/fuedskeps-theme-vscode/blob/main/INSTALL.md).
 
 ## Team
 
@@ -39,4 +39,4 @@ This theme is maintained by the following person(s).
 | [Aluisio de Avila](https://github.com/Aluisio)                                             |
 ## License
 
-[MIT License](https://github.com/fuedskeps-theme/blob/master/./LICENSE.md)
+[MIT License](https://github.com/Aluisio/fuedskeps-theme-vscode/blob/main/LICENSE.md)

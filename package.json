@@ -6,12 +6,12 @@
     "description": "A dark theme made by Aluisio de Avila",
     "publisher": "Aluisio de Avila",
     "maintainers": [
-		"Aluisio de Avila <aluisiodeavila@hotmail.com>"
-	],
+        "Aluisio de Avila <aluisiodeavila@hotmail.com>"
+    ],
     "repository": {
-		"type": "git",
-		"url": "https://github.com/Aluisio/fuedskeps-theme.git"
-	},
+        "type": "git",
+        "url": "https://github.com/Aluisio/fuedskeps-theme-vscode.git"
+    },
     "engines": {
         "vscode": "^1.61.0"
     },
@@ -19,11 +19,11 @@
         "Themes"
     ],
     "keywords": [
-		"fuekskeps",
-		"aluisio",
-		"theme",
-		"color-theme"
-	],
+        "fuekskeps",
+        "aluisio",
+        "theme",
+        "color-theme"
+    ],
     "icon": "icon.png",
     "contributes": {
         "themes": [
