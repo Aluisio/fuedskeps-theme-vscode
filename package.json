@@ -1,6 +1,6 @@
 {
     "name": "fuedskeps-theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "displayName": "Fuedskeps Theme",
     "homepage": "https://aluisiodeavila.com.br/",
     "description": "A dark theme made by Aluisio de Avila",
@@ -33,5 +33,10 @@
                 "path": "./themes/Fuedskeps-color-theme.json"
             }
         ]
+    },
+    "__metadata": {
+        "id": "aluisiodeavila",
+        "publisherDisplayName": "Aluisio de Avila",
+        "publisherId": "aluisiodeavila"
     }
 }
