@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Fuedskeps screnshoot for Visual Studio Code" src="https://i.imgur.com/OBTQlLa.png">
+  <img alt="Fuedskeps screnshoot for Visual Studio Code" src="https://i.imgur.com/GPJXjID.png">
 </p>
 
 ## Install
