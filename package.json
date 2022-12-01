@@ -1,9 +1,9 @@
 {
     "name": "fuedskeps-theme",
-    "version": "0.0.4",
+    "version": "1.0.0",
     "displayName": "Fuedskeps Theme",
     "homepage": "https://aluisiodeavila.com.br/",
-    "description": "A dark theme made by Aluisio de Avila",
+    "description": "The real Dark theme for Visual Studio Code made by Aluisio de Avila",
     "publisher": "aluisiodeavila",
     "maintainers": [
         "Aluisio de Avila <aluisiodeavila@hotmail.com>"
@@ -22,15 +22,22 @@
         "fuekskeps",
         "aluisio",
         "theme",
-        "color-theme"
+        "color-theme",
+        "real-dark-theme",
+        "dark"
     ],
     "icon": "icon.png",
     "contributes": {
         "themes": [
             {
-                "label": "Fuedskeps",
+                "label": "Fuedskeps - Blue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Fuedskeps-color-theme.json"
+                "path": "./themes/Fuedskeps-color-blue-theme.json"
+            },
+            {
+                "label": "Fuedskeps - Pink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fuedskeps-color-pink-theme.json"
             }
         ]
     },

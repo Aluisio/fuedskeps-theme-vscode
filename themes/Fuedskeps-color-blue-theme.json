@@ -1,11 +1,11 @@
 {
-	"name": "Fuedskeps",
+    "name": "Fuedskeps - Blue",
     "author": "Aluisio de Avila",
     "maintainers": [
         "Aluisio de Avila <aluisiodeavila@hotmail.com>"
     ],
-	"type": "dark",
-	"fuedskeps": {
+    "type": "dark",
+    "fuedskeps": {
         "base": [
             "#191622",
             "#E1E1E6",
@@ -52,70 +52,52 @@
             "#15121E"
         ]
     },
-	"colors": {
+    "colors": {
+        "focusBorder": "#0e70f1",
         "editor.background": "#111111",
-		"editor.foreground": "#d4d4d4",
-		"editor.inactiveSelectionBackground": "#3a3d41",
-		"editor.selectionHighlightBackground": "#add6ff26",
-
-		"editorIndentGuide.activeBackground": "#707070",
-		"editorIndentGuide.background": "#404040",
-
+        "editor.foreground": "#d4d4d4",
+        "editor.inactiveSelectionBackground": "#3a3d41",
+        "editor.selectionHighlightBackground": "#add6ff26",
+        "editorIndentGuide.activeBackground": "#707070",
+        "editorIndentGuide.background": "#404040",
         "input.placeholderForeground": "#a6a6a6",
-
         "list.dropBackground": "#383b3d",
-		"list.activeSelectionBackground": "#005fdb",
-		"list.inactiveSelectionBackground": "#0661d8",
-		"list.focusHighlightForeground": "#9bc6f7",
-
+        "list.activeSelectionBackground": "#005fdb",
+        "list.inactiveSelectionBackground": "#0661d8",
+        "list.focusHighlightForeground": "#9bc6f7",
         "menu.background": "#1a1a1a",
-		"menu.foreground": "#cccccc",
-
+        "menu.foreground": "#cccccc",
         "sideBar.background": "#131313",
-		"sideBarSectionHeader.background": "#00000000",
-		"sideBarSectionHeader.border": "#cccccc33",
+        "sideBarSectionHeader.background": "#00000000",
+        "sideBarSectionHeader.border": "#cccccc33",
         "sideBarTitle.foreground": "#bbbbbb",
-
         "tab.lastPinnedBorder": "#cccccc33",
         "tab.inactiveBackground": "#191919",
         "tab.activeBorderTop": "#0e70f1",
         "tab.unfocusedHoverForeground": "#e9e9e9",
-
         "editorGroupHeader.tabsBackground": "#131313",
-
         "notifications.background": "#191919",
-
         "button.background": "#0e70f1",
         "button.hoverBackground": "#2581f8",
-
         "input.background": "#222222",
-
         "dropdown.background": "#222222",
-
         "titleBar.activeBackground": "#131313",
         "titleBar.inactiveBackground": "#202020",
-
         "activityBarBadge.background": "#0e70f1",
-
         "activityBar.activeBorder": "#0e70f1",
         "activityBar.activeBackground": "#131313",
         "activityBar.foreground": "#E1E1E6",
         "activityBar.background": "#181818",
-
         "statusBar.noFolderBackground": "#181818",
         "statusBar.background": "#1a1a1a",
-        "statusBar.debuggingBackground": "#202020",
-
+        "statusBar.debuggingBackground": "#FF0909",
         "statusBarItem.remoteBackground": "#16825d",
-		"statusBarItem.remoteForeground": "#ffffff",
-
+        "statusBarItem.remoteForeground": "#ffffff",
         "panel.border": "#0e70f1",
-
         "panelTitle.activeBorder": "#0e70f1",
-
         "editorLineNumber.activeForeground": "#0e70f1"
-	},
-	"tokenColors": [
+    },
+    "tokenColors": [
         {
             "scope": [
                 "emphasis"
