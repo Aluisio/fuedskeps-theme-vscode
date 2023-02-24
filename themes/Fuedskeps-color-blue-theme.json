@@ -63,7 +63,7 @@
         "input.placeholderForeground": "#a6a6a6",
         "list.dropBackground": "#383b3d",
         "list.activeSelectionBackground": "#383b3d",
-        "list.inactiveSelectionBackground": "#383b3d",
+        "list.inactiveSelectionBackground": "#3B3E40",
         "list.focusHighlightForeground": "#9bc6f7",
         "menu.background": "#1a1a1a",
         "menu.foreground": "#cccccc",
