@@ -1,9 +1,9 @@
 {
   "name": "fuedskeps-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Fuedskeps Theme",
   "homepage": "https://fuedskeps.aluisio.dev",
-  "description": "The real Dark theme for Visual Studio Code made by Aluisio de Avila",
+  "description": "The Real Dark theme for Visual Studio Code",
   "publisher": "aluisiodeavila",
   "scripts": {
     "vsce-package": "vsce package",
@@ -23,15 +23,15 @@
     "Themes"
   ],
   "keywords": [
-    "fuekskeps",
-    "aluisio",
+    "fuedskeps",
     "theme",
     "color-theme",
     "real-dark-theme",
     "dark",
     "full-dark",
     "blue",
-    "pink"
+    "pink",
+    "aluisio"
   ],
   "icon": "icon.png",
   "contributes": {

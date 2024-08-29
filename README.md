@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>The real Dark theme for Visual Studio Code</strong>
+  <strong>The Real Dark theme for Visual Studio Code</strong>
 </p>
 
 <p align="center">
@@ -22,9 +22,13 @@
   <a href="#license">License</a>
 </p>
 
-<p align="center">
-  <img alt="Fuedskeps screnshoot for Visual Studio Code" src="https://i.imgur.com/qiWPATt.png">
-</p>
+<div align="center">
+  <span>Blue</span>
+  <img alt="Fuedskeps blue screenshot for Visual Studio Code" src="https://i.imgur.com/qiWPATt.png">
+
+  <span>Pink</span>
+  <img alt="Fuedskeps pink screenshot for Visual Studio Code" src="https://i.imgur.com/qiWPATt.png">
+</div>
 
 ## Install
 
