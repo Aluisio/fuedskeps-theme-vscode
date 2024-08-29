@@ -24,10 +24,10 @@
 
 <div align="center">
   <span>Blue</span>
-  <img alt="Fuedskeps blue screenshot for Visual Studio Code" src="https://i.imgur.com/qiWPATt.png">
+  <img alt="Fuedskeps blue screenshot for Visual Studio Code" src="https://i.imgur.com/VSQrZvP.png">
 
   <span>Pink</span>
-  <img alt="Fuedskeps pink screenshot for Visual Studio Code" src="https://i.imgur.com/qiWPATt.png">
+  <img alt="Fuedskeps pink screenshot for Visual Studio Code" src="https://i.imgur.com/7uTutbo.png">
 </div>
 
 ## Install
