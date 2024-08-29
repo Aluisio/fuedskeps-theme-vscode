@@ -23,14 +23,17 @@
 </p>
 
 <div align="center">
-  <span>Blue</span>
   <img alt="Fuedskeps blue screenshot for Visual Studio Code" src="https://i.imgur.com/VSQrZvP.png">
 
-  <span>Pink</span>
   <img alt="Fuedskeps pink screenshot for Visual Studio Code" src="https://i.imgur.com/7uTutbo.png">
 </div>
 
 ## Install
+- Open the Extensions sidebar in VS Code
+- Search for `FuedsKeps`
+- Click Install
+- Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
+- Select Preferences: Color Theme and choose `FuedsKeps - Blue` or `FuedsKeps Pink -`.
 
 All instructions can be found at [INSTALL.md](https://github.com/Aluisio/fuedskeps-theme-vscode/blob/main/INSTALL.md).
 
