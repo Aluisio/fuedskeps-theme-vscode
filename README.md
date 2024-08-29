@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>The Real Dark theme for Visual Studio Code</strong>
+  <strong>The Real Dark Theme for Visual Studio Code</strong>
 </p>
 
 <p align="center">
