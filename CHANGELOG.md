@@ -1,5 +1,8 @@
 # Change Log.
 
+## 1.0.2 - 2024-08-29
+- Minor adjustments and improvements
+
 ## 1.0.0 - 2022-12-05
 
 - Created Pink variation
